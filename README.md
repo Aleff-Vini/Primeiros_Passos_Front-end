@@ -1,1 +1,1 @@
-Esse repositorio foi criado para registrar meu primeiro contato com a HTML, e mostrar minha evolução ao longo dos exercicios
+Esse repositorio foi criado para registrar meu primeiro contato com a HTML, CSS e JS e mostrar minha evolução ao longo dos exercicios
